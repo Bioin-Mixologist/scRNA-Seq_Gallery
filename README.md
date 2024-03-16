@@ -8,7 +8,7 @@
 ![img](https://github.com/Bioin-Mixologist/scRNA-Seq_Gallery/blob/main/Figure/example02_celltype_vlnplot.png)
 （待更）
 ## 03.细胞分群自定义展现
-1[img](https://github.com/Bioin-Mixologist/scRNA-Seq_Gallery/blob/main/Figure/example03_celltype_featureplot.png)
+![img](https://github.com/Bioin-Mixologist/scRNA-Seq_Gallery/blob/main/Figure/example03_celltype_featureplot.png)
 （待更）
 ## 04.RNA速率分析可视化
 （待更）
